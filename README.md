@@ -9,7 +9,8 @@ We're building a skateboard. First, we started by building the deck, which was s
 
 ## Image
 ---
-![skateboard1](Skateboardpic1.PNG)
 
-![slateboard2](Skateboardpic2.PNG)
+<img src="Skateboardpic1.PNG" alt="skateboard1" width="400" height="200">
+
+<img src="Skateboardpic2.PNG" alt="skateboard2" width="400" height="200">
 
