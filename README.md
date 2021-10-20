@@ -14,3 +14,5 @@ We're building a skateboard. First, we started by building the deck, which was s
 <img src="Skateboardpic2.PNG" alt="skateboard2" width="400" height="200">
 
 ## Reflection
+
+The assignment itself wasn't too challenging. I'd give it a 5/10 on the challengeometer(definately didn't just make that up). I learned some cool new features like split and also a little bit on how to insert an image/logo. There were some spots that I had to go back and redo because of accidental extra relations or dimensions. At the end, something went wrong and there was some problems with the baseplate, but that problem was quicly terminated by Mr.H. Overall, this assingnment is a 72% on Rotten Filaments.
