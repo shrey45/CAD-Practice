@@ -11,5 +11,7 @@ We're building a skateboard. First, we started by building the deck, which was s
 
 ## Image
 ---
-![]
+![skateboard1](Skateboardpic1.PNG)
+
+![slateboard2](Skateboardpic2.PNG)
 
