@@ -32,7 +32,7 @@ I made a lego. An actual lego. Crazy. Whats more crazier is that I made only *ON
 
 ### Image
 
-<img src="Duck.PNG" alt="duck" width="400" height="200">
+<img src="Images/Duck.PNG" alt="duck" width="400" height="400">
 
 ### Reflection
 
