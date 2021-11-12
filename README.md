@@ -24,7 +24,7 @@ The assignment itself wasn't too challenging. I'd give it a 5/10 on the challeng
 
 ### Description
 
-I made a lego. An actual lego. Crazy. Whats more crazier is that I made only *ONE* lego, but I can make any type of lego I want with a click. Let me start off by saying that configurations are pretty awesome. You can make 1 of something and be able to have many different options of sizes, colors, or configurations of it in a dropdown menu. The first one will be a little longer and complicated, and might take more time, but the rest will literally take < min each. I've made a couple different configurations for my lego brick. I started by making a basic 2x4 brick, and then from that I made configurations of the height(brick, tile, etc.), length, width, and color. I have maybe 64 different options from 1 brick I made so far that can range from a 1x1 tile to a 4x2 brick with colors Red, Blue, and Yellow. This is just what I did. I could make add as many configurations of color as I want to have any color lego available at my command. We then use a cool fetaure called snap mode to snap the bricks togterh easily and make a duck. It was pretty simple.
+I made a lego. An actual lego. Crazy. Whats more crazier is that I made only *ONE* lego, but I can make any type of lego I want with a click. Let me start off by saying that configurations are pretty awesome. You can make 1 of something and be able to have many different options of sizes, colors, or configurations of it in a dropdown menu. The first one will be a little longer and complicated, and might take more time, but the rest will literally take < min each. I've made a couple different configurations for my lego brick. I started by making a basic 2x4 brick, and then from that I made configurations of the height(brick, tile, etc.), length, width, and color. I have maybe 64 different options from 1 brick I made so far that can range from a 1x1 tile to a 4x2 brick with colors Red, Blue, and Yellow. This is just what I did. I could make add as many configurations of color as I want to have any color lego available at my command.
 
 ### Link
 
@@ -32,6 +32,7 @@ I made a lego. An actual lego. Crazy. Whats more crazier is that I made only *ON
 
 ### Image
 
+<img src="Duck.PNG" alt="duck" width="400" height="200">
 
 ### Reflection
 
