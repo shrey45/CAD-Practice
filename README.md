@@ -33,6 +33,9 @@ I made a lego. An actual lego. Crazy. Whats more crazier is that I made only *ON
 ### Image
 
 <img src="Images/Duck.PNG" alt="duck" width="400" height="400">
+<img src="Images/1x1plate.PNG" alt="plate" width="400" height="400">
+<img src="Images/Brick2x4.PNG" alt="brick" width="400" height="400">
+
 
 ### Reflection
 
